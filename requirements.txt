@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-streamlit
-pandas
-numpy
-plotly
-=======
-streamlit
-pandas
-numpy
-plotly
->>>>>>> 7fada881d00b51976fb97b6d32993d735666b598
-scikit-learn
+streamlit==1.32.0
+pandas==2.2.0
+numpy==1.26.0
+plotly==5.18.0
+scikit-learn==1.4.0
